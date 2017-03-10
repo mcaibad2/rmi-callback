@@ -1,3 +1,7 @@
+package client;
+
+import interfaces.CallbackClientInterface;
+
 import java.rmi.*;
 import java.rmi.server.*;
 

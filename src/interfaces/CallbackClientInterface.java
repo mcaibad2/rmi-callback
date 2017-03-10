@@ -1,3 +1,5 @@
+package interfaces;
+
 import java.rmi.Remote;
 
 public interface CallbackClientInterface extends Remote {

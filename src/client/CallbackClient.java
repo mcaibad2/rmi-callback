@@ -1,3 +1,8 @@
+package client;
+
+import interfaces.CallbackClientInterface;
+import interfaces.CallbackServerInterface;
+
 import java.net.MalformedURLException;
 import java.rmi.Naming;
 import java.rmi.NotBoundException;

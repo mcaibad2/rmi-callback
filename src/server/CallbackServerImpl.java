@@ -1,3 +1,8 @@
+package server;
+
+import interfaces.CallbackClientInterface;
+import interfaces.CallbackServerInterface;
+
 import java.rmi.*;
 import java.rmi.server.*;
 import java.util.Vector;
