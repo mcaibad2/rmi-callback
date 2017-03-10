@@ -1,1 +1,1 @@
-javac src/CallbackClient.java src/CallbackClientImpl.java src/CallbackClientInterface.java src/CallbackServer.java src/CallbackServerImpl.java src/CallbackServerInterface.java
+javac src/client/CallbackClient.java src/client/CallbackClientImpl.java src/interfaces/CallbackClientInterface.java src/server/CallbackServer.java src/server/CallbackServerImpl.java src/interfaces/CallbackServerInterface.java

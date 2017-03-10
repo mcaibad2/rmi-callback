@@ -1,3 +1,3 @@
 cd src
 start rmiregistry
-java CallbackServer
+java server.CallbackServer

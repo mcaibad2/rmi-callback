@@ -1,2 +1,2 @@
 cd src
-java CallbackClient
+java client.CallbackClient
